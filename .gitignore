@@ -1,0 +1,11 @@
+# Node
+node_modules/
+npm-debug.log*
+
+# Microsoft login cache (NEVER upload - contains account tokens!)
+auth-cache/
+*.token
+*.cache
+
+# Logs
+*.log
